@@ -4,7 +4,7 @@ https://bubblecup-88.web.app/
 
 ## Dev notes:
 
-on first install (if getting code on new laptop):
+on first install:
 
 npm install
 
